@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<link rel = "stylesheet" href = "style.css">
+<div class = "divtitulo">
+            <h3 class = "titulo">
+                Qual Comprar?
+            </h3>
+        </div>
 <!--
 **MuriloGDO/MuriloGDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
